@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/paypal-express-checkout-payment-gateway",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/paypal-express-checkout-payment-gateway",
+	"authors": [
+		{
+		"name": "paypal-express-checkout-payment-gateway",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
